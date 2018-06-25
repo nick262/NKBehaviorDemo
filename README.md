@@ -14,7 +14,7 @@ Demo中使用Behavior实现的功能有：
 
 3.视差效果+导航栏渐变效果（组合效果）
 
-![ParallaxHeader+NavBarGradient.gif](https://upload-images.jianshu.io/upload_images/1883918-da4fb2c6249cb151.gif?imageMogr2/auto-orient/strip)
+![ParallaxHeader+NavBarGradient.gif](https://upload-images.jianshu.io/upload_images/1883918-e97b0eab01ad9932.gif?imageMogr2/auto-orient/strip)
 
 4.字符输入限制效果
 
